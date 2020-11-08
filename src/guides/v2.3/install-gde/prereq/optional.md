@@ -116,6 +116,7 @@ Add the following code anywhere in your web server's docroot:
 <?php
 // Show all information, defaults to INFO_ALL
 phpinfo();
+?>
 ```
 
 For more information, see the [phpinfo manual page](http://php.net/manual/en/function.phpinfo.php){:target="_blank"}.
